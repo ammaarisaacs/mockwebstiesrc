@@ -1,0 +1,11 @@
+.cart_container p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+}
+
+.totals_container {
+  display: flex;
+  justify-content: right;
+  padding: 1rem 3rem;
+}
